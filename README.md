@@ -1,6 +1,10 @@
 ## print('Hello, GitHub!')
 ## Говорят, данные не врут. Мои Jupyter-ноутбуки — живое доказательство.
 
+ O
+ /|\
+ / \
+ 
 <!--
 **Anastasia-Andreevna/Anastasia-Andreevna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
