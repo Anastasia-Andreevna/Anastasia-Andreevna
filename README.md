@@ -2,7 +2,7 @@
 
 `Говорят, данные не врут. Мои Jupyter-ноутбуки — живое доказательство.`
 
- https://tenor.com/ru/view/nft-crypto-bitcoin-penguin-ethereum-gif-9503474379240109260
+
 <!--
 **Anastasia-Andreevna/Anastasia-Andreevna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
