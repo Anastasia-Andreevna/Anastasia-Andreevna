@@ -35,7 +35,7 @@
 ![Yandex Datalens](https://img.shields.io/badge/Yandex_Datalens-FF0000?style=flat-square)
 
 ## 📚 Образование и курсы
-SQL ACADEMY
+![SQL Academy](https://img.shields.io/badge/SQL_Academy-316192?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=FF7F0E)
 [<img src="https://drive.google.com/thumbnail?id=1VZyLvnSBLelhwQbrOcrYwxJZooh90GuC&sz=w400" width="200">](https://drive.google.com/uc?export=view&id=1VZyLvnSBLelhwQbrOcrYwxJZooh90GuC)
 
 ## 📫 Контакты
