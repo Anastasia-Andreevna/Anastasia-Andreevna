@@ -1,4 +1,4 @@
-`print("Hello, GitHub!")`  
+## print("Hello, GitHub!")  
 
 *"Говорят, данные не врут. Мои Jupyter-ноутбуки — живое доказательство."*
 
