@@ -36,7 +36,7 @@
 
 ## 📚 Образование и курсы
 SQL ACADEMY
-https://img.shields.io/badge/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82-SQL-00758F?style=flat-square&logo=google-drive
+[<img src="https://drive.google.com/thumbnail?id=1VZyLvnSBLelhwQbrOcrYwxJZooh90GuC&sz=w400" width="200">](https://drive.google.com/uc?export=view&id=1VZyLvnSBLelhwQbrOcrYwxJZooh90GuC)
 
 ## 📫 Контакты
 <p align="left"> <a href="https://t.me/Anastasia_Anisimova99" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="mailto:anastasia.anisimova@internet.ru"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru"> </a> <a href="https://wa.me/79629410710"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a> </p>
